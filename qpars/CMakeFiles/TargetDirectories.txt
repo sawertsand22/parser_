@@ -1,0 +1,4 @@
+/home/sawert/qtprojects/qpars/CMakeFiles/rebuild_cache.dir
+/home/sawert/qtprojects/qpars/CMakeFiles/edit_cache.dir
+/home/sawert/qtprojects/qpars/CMakeFiles/pars.dir
+/home/sawert/qtprojects/qpars/CMakeFiles/pars_autogen.dir
